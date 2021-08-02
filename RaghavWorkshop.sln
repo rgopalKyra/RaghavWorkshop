@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaghavWorkshop", "RaghavWorkshop\RaghavWorkshop.csproj", "{23CADB9F-A18C-4713-9152-EA2EB853A70C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CfxAlertJob", "CfxAlertJob\CfxAlertJob.csproj", "{355F148A-47A9-43CD-B709-0592BC3A35DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23CADB9F-A18C-4713-9152-EA2EB853A70C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CADB9F-A18C-4713-9152-EA2EB853A70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CADB9F-A18C-4713-9152-EA2EB853A70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CADB9F-A18C-4713-9152-EA2EB853A70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355F148A-47A9-43CD-B709-0592BC3A35DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355F148A-47A9-43CD-B709-0592BC3A35DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355F148A-47A9-43CD-B709-0592BC3A35DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355F148A-47A9-43CD-B709-0592BC3A35DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2124C93F-8950-47C1-BEB3-EA16F0A9774D}
+	EndGlobalSection
+EndGlobal
